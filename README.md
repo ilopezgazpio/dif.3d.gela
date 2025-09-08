@@ -27,6 +27,7 @@ We’re just getting started! This site will grow with resources, guides, and sh
 
 👉 Follow updates here and on our GitHub repository.  
 👉 Contribute ideas, projects, or tutorials to help the lab thrive!  
+👉 Join our [Discord channel](https://discord.gg/tUJCjDse)
 
 ---
 
