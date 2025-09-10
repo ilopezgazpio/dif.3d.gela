@@ -11,6 +11,8 @@ This is a creative playground where students can explore, experiment, and build 
 - **3D Printing & Fabrication** – from digital models to physical objects  
 - **Research & Learning** – workshops, tutorials, and collaborative projects  
 
+check our [projects](https://github.com/ilopezgazpio/dif.3d.gela) developed by students
+
 ---
 
 ## 🌍 Join the Lab
